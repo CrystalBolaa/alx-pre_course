@@ -1,8 +1,6 @@
 #!/bin/bash
-<<<<<<< HEAD
+
 echo ALX School
-=======
+
 echo "ALX Scool is so cool"
 
-
->>>>>>> master
